@@ -4,7 +4,7 @@ Data source:(https;//www.kaggle.com/datasets/vedavyasv/usa-housing)
 Reference:kaggle.com(USA Housing)
 
 This project uses machine learning techniques to predict house prices based on various features.
-# How to run the code and any dependency;
+# How to run the code and any dependency:
  House Price prediction using machine learning
  # How to run:
    # pip install jupyter lab
